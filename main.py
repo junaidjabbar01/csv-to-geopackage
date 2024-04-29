@@ -12,7 +12,6 @@ if datasource is None:
     print("Creation of GeoPackage file failed.")
   #  return False
 
-
 # Create a dummy layer (a point layer with no features)
 #layer_name = 'dummy'
 #spatial_reference = ogr.osr.SpatialReference()
